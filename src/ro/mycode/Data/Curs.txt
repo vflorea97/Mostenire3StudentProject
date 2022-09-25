@@ -1,0 +1,6 @@
+401,Moda,ArtaDecorativa
+402,Algebra,Matematica
+403,Model,Pictura
+404,Crochiuri,Pictura
+405,Geometrie,Matematica
+406,Geodezie,Geologie

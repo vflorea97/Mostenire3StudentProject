@@ -1,0 +1,6 @@
+301,101,Probleme Matematica
+302,100,Limba Romana
+303,103,Geografie
+304,101,Economie
+305,102,Psihologie
+306,102,Istorie

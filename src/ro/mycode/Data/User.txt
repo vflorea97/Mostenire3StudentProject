@@ -1,0 +1,8 @@
+Student,100,Misu,Alexandru,alex@gmail.com,alx1234,0,0,LXS0001,0,Merit
+Student,101,Dragan,Mihai,dgrmh@gmail.com,mihai001,0,0,LXS0002,0,Medicala
+Student,102,Soru,Tudor,sorut6@gmail.com,pisica,0,0,LXS0003,0,Merit
+Student,103,Gimin,Bogdan,bgd5@gmail.com,poc,0,0,LXS0004,0,Sociala
+Student,104,Popescu,Silviu,slv4@gmail.com,copac2,0,0,LXS0005,0,Merit
+Profesor,200,Toma,Dragos,toma.dragos@gmail.com,dragon453,Arta Murala,3000,Asistent,2
+Profesor,201,Tapa,Mihai,mihai788@gmail.com,tapatapa,Pictura,8000,Decan,1
+Profesor,202,Mican,Radu,radu.radu87@gmail.com,radMic4,Matematica,5000,Lector,2
